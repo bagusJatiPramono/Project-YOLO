@@ -1,0 +1,4 @@
+run 1 : standard YOLO, 1920x225 px
+run 2 : modified imgsz 225, chunked 640x225 px
+run 3 : standard YOLO (imgsz 640), chunked 640x225 px
+run 4 : modified imgsz 225, epoch 100, chunked 640x225 px

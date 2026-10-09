@@ -1,0 +1,7 @@
+darknet is a framework to test YOLO -- not a darkweb probing tool
+turbs out darknet is used to run YOLOv4, while I tried to run v8. might be obselete.
+
+runs is model I train for some time
+
+sampleimages can be deleted if you want to make other partition
+
